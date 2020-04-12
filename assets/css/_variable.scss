@@ -1,0 +1,19 @@
+$article1_skyblu:skyblue;
+$article2_green:green;
+$article3_orang: orange;
+$article4_pink: pink;
+$article5_greenyellow: greenyellow;
+$article6_light: lightslategray;
+$article7_blue:mediumblue;
+
+%m-p {
+    margin: 0;
+    padding: 0;
+}
+
+%display_style{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
